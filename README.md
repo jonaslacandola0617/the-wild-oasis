@@ -32,16 +32,6 @@
 - **Supabase Storage** – image handling
 - **Row-Level Security (RLS)** – fine-grained access control
 
-## 📁 Folder Structure
-
-📁 src
-├── components # Shared UI components
-├── features # Feature modules (cabins, bookings, etc.)
-├── services # Supabase client and API logic
-├── ui # Styled UI elements (buttons, forms, etc.)
-├── utils # Helper functions
-└── App.jsx # Main entry point
-
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repository
@@ -60,7 +50,6 @@ npm install
 ### 3. Set up Supabase
 
 - Go to [supabase.com](https://supabase.com) and create a new project
-- Use the provided SQL in `/supabase/schema.sql` to create tables
 - Enable storage and auth
 
 ### 4. Add environment variables
@@ -78,16 +67,11 @@ VITE_SUPABASE_KEY=your-anon-key
 npm run dev
 ```
 
----
-
 ## ⚙️ Supabase Configuration
 
 - Enable **RLS (Row-Level Security)** on all tables
 - Add policies for SELECT, INSERT, UPDATE, DELETE
 - Use Supabase Storage for cabin image uploads
-- (Optional) Add a foreign key relationship to `auth.users` for multi-user support
-
----
 
 ## 📸 Screenshots
 
