@@ -73,13 +73,16 @@ npm run dev
 
 ## 📸 Screenshots
 
-Dashboard
+### Dashboard
+
 ![Dashboard](./public/screens/dashboard.png)
 
-Cabins
+### Cabins
+
 ![Cabins](./public/screens/cabins.png)
 
-Bookings
+### Bookings
+
 ![Booking](./public/screens/booking.png)
 
 ## Acknowledgments
