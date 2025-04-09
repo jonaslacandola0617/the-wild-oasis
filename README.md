@@ -2,13 +2,7 @@
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
   <h1>The Wild Oasis</h1>
-
-## Acknowledgments
-
-This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. Special thanks to Jonas for his excellent teaching and guidance throughout the course.
-
-# 🌴 The Wild Oasis
-
+</div>
 **The Wild Oasis** is a modern full-stack web application for managing cabin rentals — built with React and Supabase. It offers a sleek dashboard interface to manage bookings, guests, and cabins efficiently, making it ideal for hosts and property managers who want a simple and intuitive experience.
 
 ## 🚀 Features
@@ -97,37 +91,18 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Add your own screenshots to the `public/screens/` directory and link them here.
-
 | Dashboard                                    | Manage Cabins                          | Booking Details                          |
 | -------------------------------------------- | -------------------------------------- | ---------------------------------------- |
 | ![Dashboard](./public/screens/dashboard.png) | ![Cabins](./public/screens/cabins.png) | ![Booking](./public/screens/booking.png) |
 
----
-
-## 📌 Roadmap / TODO
-
-- [ ] Add test coverage (Jest or Cypress)
-- [ ] Role-based access control (admin, staff)
-- [ ] Export data to CSV/PDF
-- [ ] PWA support for offline functionality
-- [ ] Integration with Stripe for payments
-
----
-
 ## 🧑 Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
-
----
+Made with ❤️ by [Jonas Lacandola](https://github.com/jonaslacandola0617)
 
 ## 📄 License
 
 Licensed under the [MIT License](./LICENSE).
 
----
+## Acknowledgments
 
-```
-
-Let me know if you want a portfolio-style intro, an About section, or if you’d like the README to reflect team contributions or deployment steps (e.g. Vercel, Netlify).
-```
+This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. Special thanks to Jonas for his excellent teaching and guidance throughout the course.
