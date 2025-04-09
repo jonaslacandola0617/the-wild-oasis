@@ -2,8 +2,8 @@
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
   <h1>The Wild Oasis</h1>
+  <p>The Wild Oasis is a modern full-stack web application for managing cabin rentals — built with React and Supabase. It offers a sleek dashboard interface to manage bookings, guests, and cabins efficiently, making it ideal for hosts and property managers who want a simple and intuitive experience.  </p>
 </div>
-**The Wild Oasis** is a modern full-stack web application for managing cabin rentals — built with React and Supabase. It offers a sleek dashboard interface to manage bookings, guests, and cabins efficiently, making it ideal for hosts and property managers who want a simple and intuitive experience.
 
 ## 🚀 Features
 
@@ -13,8 +13,6 @@
 - 🌙 Light and dark mode support
 - 📅 Booking calendar and filters
 - 🖼 Upload and preview cabin images
-- 📍 Role-based access ready (optional)
-- 📱 Fully responsive UI
 
 ## 🛠 Tech Stack
 
@@ -75,17 +73,14 @@ npm run dev
 
 ## 📸 Screenshots
 
-| Dashboard                                    | Manage Cabins                          | Booking Details                          |
-| -------------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![Dashboard](./public/screens/dashboard.png) | ![Cabins](./public/screens/cabins.png) | ![Booking](./public/screens/booking.png) |
+Dashboard
+![Dashboard](./public/screens/dashboard.png)
 
-## 🧑 Author
+Cabins
+![Cabins](./public/screens/cabins.png)
 
-Made with ❤️ by [Jonas Lacandola](https://github.com/jonaslacandola0617)
-
-## 📄 License
-
-Licensed under the [MIT License](./LICENSE).
+Bookings
+![Booking](./public/screens/booking.png)
 
 ## Acknowledgments
 
