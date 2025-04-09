@@ -1,21 +1,15 @@
 <div align="center">
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
-  <h1>The Wild Oasis - Admin</h1>
+  <h1>The Wild Oasis</h1>
 
 ## Acknowledgments
 
 This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. Special thanks to Jonas for his excellent teaching and guidance throughout the course.
-Absolutely! Here's the entire **`README.md`** in one clean, copy-paste-ready markdown file for **The Wild Oasis** project:
 
----
-
-```markdown
 # 🌴 The Wild Oasis
 
 **The Wild Oasis** is a modern full-stack web application for managing cabin rentals — built with React and Supabase. It offers a sleek dashboard interface to manage bookings, guests, and cabins efficiently, making it ideal for hosts and property managers who want a simple and intuitive experience.
-
----
 
 ## 🚀 Features
 
@@ -27,8 +21,6 @@ Absolutely! Here's the entire **`README.md`** in one clean, copy-paste-ready mar
 - 🖼 Upload and preview cabin images
 - 📍 Role-based access ready (optional)
 - 📱 Fully responsive UI
-
----
 
 ## 🛠 Tech Stack
 
@@ -46,10 +38,7 @@ Absolutely! Here's the entire **`README.md`** in one clean, copy-paste-ready mar
 - **Supabase Storage** – image handling
 - **Row-Level Security (RLS)** – fine-grained access control
 
----
-
 ## 📁 Folder Structure
-```
 
 📁 src
 ├── components # Shared UI components
@@ -59,10 +48,6 @@ Absolutely! Here's the entire **`README.md`** in one clean, copy-paste-ready mar
 ├── utils # Helper functions
 └── App.jsx # Main entry point
 
-````
-
----
-
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repository
@@ -70,7 +55,7 @@ Absolutely! Here's the entire **`README.md`** in one clean, copy-paste-ready mar
 ```bash
 git clone https://github.com/your-username/the-wild-oasis.git
 cd the-wild-oasis
-````
+```
 
 ### 2. Install dependencies
 
